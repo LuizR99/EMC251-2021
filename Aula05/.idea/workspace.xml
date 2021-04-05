@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfba1cc1-e3e4-4a42-8631-aff6ea9c4746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Atividade1/src/Rodrigues/Oliveira/Felipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula02/Aula02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula02/src/Rodrigues/Oliveira/Felipe/Basico01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula02/src/Rodrigues/Oliveira/Felipe/Basico02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula02/src/Rodrigues/Oliveira/Felipe/Basico03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula02/src/Rodrigues/Oliveira/Felipe/Basico04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula02/src/Rodrigues/Oliveira/Felipe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rodrigues/Oliveira/Felipe/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rodrigues/Oliveira/Felipe/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rodrigues/Oliveira/Felipe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rodrigues/Oliveira/Felipe/Sistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rodrigues/Oliveira/Felipe/Titulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula05-teoria/src/Rodrigues/Oliveira/Felipe/Luiz/ValidadorCPF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade1/src/Rodrigues/Oliveira/Felipe/Luiz/Contas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade1/src/Rodrigues/Oliveira/Felipe/Luiz/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade1/src/Rodrigues/Oliveira/Felipe/Luiz/Transaçoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade1/src/Rodrigues/Oliveira/Felipe/Luiz/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Atividade1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,17 +61,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -101,6 +78,25 @@
       <workItem from="1615806970508" duration="3953000" />
       <workItem from="1616350235435" duration="157000" />
       <workItem from="1617460201669" duration="704000" />
+      <workItem from="1617461357778" duration="12000" />
+      <workItem from="1617461558622" duration="1504000" />
+      <workItem from="1617463182431" duration="626000" />
+      <workItem from="1617465048213" duration="1827000" />
+      <workItem from="1617466889294" duration="5953000" />
+      <workItem from="1617499078330" duration="3000" />
+      <workItem from="1617541825430" duration="415000" />
+      <workItem from="1617542324766" duration="11000" />
+      <workItem from="1617542544998" duration="1564000" />
+      <workItem from="1617544131856" duration="1786000" />
+      <workItem from="1617545941430" duration="1612000" />
+      <workItem from="1617547751138" duration="3136000" />
+      <workItem from="1617550916091" duration="795000" />
+      <workItem from="1617552723285" duration="598000" />
+      <workItem from="1617554532275" duration="1462000" />
+      <workItem from="1617559763980" duration="1141000" />
+      <workItem from="1617561626541" duration="1343000" />
+      <workItem from="1617563436164" duration="598000" />
+      <workItem from="1617565242215" duration="801000" />
     </task>
     <servers />
   </component>
