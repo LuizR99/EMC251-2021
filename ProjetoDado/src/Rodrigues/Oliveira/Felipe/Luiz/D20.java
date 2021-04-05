@@ -1,0 +1,8 @@
+package Rodrigues.Oliveira.Felipe.Luiz;
+
+public class D20 extends Dados{
+    final public static int TOTAL_DE_FACES = 20;
+    public D20(){
+        super(TOTAL_DE_FACES);
+    }
+}
